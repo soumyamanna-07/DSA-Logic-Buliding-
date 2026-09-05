@@ -172,12 +172,12 @@
 
                                          #5. Determine the type of triangle.
 
-def tri(a,b,c):
-    if (a==b ==c):
-        print("the triangle is  equal")
-    elif (a==b !=c) or (a == c !=b) or (b == c != a):
-        print("the triangular has two equal")
-    else:
-        print("The triangular has no equal")
-tri(9,1,2)
+# def tri(a,b,c):
+#     if (a==b ==c):
+#         print("the triangle is  equal")
+#     elif (a==b !=c) or (a == c !=b) or (b == c != a):
+#         print("the triangular has two equal")
+#     else:
+#         print("The triangular has no equal")
+# tri(9,1,2)
           
